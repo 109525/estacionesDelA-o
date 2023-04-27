@@ -4,7 +4,7 @@
 19pm-24pm Buenas noches
 0am-6am- Durmiendo
 */
-let hora = 56;
+let hora = 8;
 let saludo;
 
 if(hora >= 6 && hora <= 11){
